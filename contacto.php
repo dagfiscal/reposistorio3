@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>soy el archivo contacto</h1>
+    <h2>esta es una segunda linea desde VSCode</h2>
 </body>
 </html>
